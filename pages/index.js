@@ -25,9 +25,9 @@ const Home = () => {
       </Head>
       
       <Navbar /> 
-      <Hero />
       <Video />
       <Benefits data={benefitOne} />
+      <Benefits data={benefitTwo} />
       <Cta />
       <Footer />
     </>
