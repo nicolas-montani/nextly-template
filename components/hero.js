@@ -12,7 +12,7 @@ const Hero = () => {
               Let's make a difference together.
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            Hi there
+            Hi there !
             We hold certain values close to our hearts. They will guide our actions for the upcoming year. This Website serves as a Platform for us to share our values and to get your feedback during the campaign. We are looking forward to get to know all of you.
             </p>
 
