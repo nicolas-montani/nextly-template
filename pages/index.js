@@ -11,6 +11,8 @@ import Testimonials from "../components/testimonials";
 import Cta from "../components/cta";
 import Faq from "../components/faq";
 import PopupWidget from "../components/popupWidget";
+import MBenefits from "../components/benefits2";
+import ImageGallery from "../components/imagegallery";
 
 const Home = () => {
   return (
@@ -23,11 +25,15 @@ const Home = () => {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
       <Navbar /> 
-      <Video />
-      <Benefits data={benefitOne} />
-      <Benefits data={benefitTwo} />
+      <Hero />
+      <SectionTitle title="WHAT WE STAND FOR" >
+      </SectionTitle>
+      <ImageGallery/>
+      <SectionTitle>
+      Together, these values form the foundation of our campaign, inspiring us to make a meaningful difference in the lives of HSG students.
+      </SectionTitle>
+      <MBenefits data={benefitTwo} />
       <Cta />
       <Footer />
     </>

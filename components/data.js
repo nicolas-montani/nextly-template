@@ -34,24 +34,34 @@ const benefitOne = {
 };
 
 const benefitTwo = {
-  title: "What we are going to do",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "WHAT WE WANT TO ACHIEVE",
+  desc: "Over the last year there has been a high demand for change and innovation. We have listened to your feedback and have come up with a list of benefits that we want to achieve.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Gym in the City",
-      desc: "Lorem ipsum is a placeholder text commonly used in the design and publishing industries to demonstrate",
+    title: "New co-working space on campus (in building 05)",
+      desc: "Study spaces are limited. More even during Learnphase. To remedy this problem we want to create a new co-working space on campus. A space where students can grind together and exchange ideas.",
+      icon: <FaceSmileIcon />,
+    }, 
+    {
+      title: "Increased GYM capacity with a new GYM in the city centre",
+      desc: "The current GYM is too small and the capacity is limited. We want to increase the capacity by building a new GYM in the city centre. This will also make it easier for students living in the city centre to access the GYM.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Exam Database",
-      desc: "Lorem ipsum is a placeholder text commonly used in the design and publishing industries to demonstrate",
-      icon: <AdjustmentsHorizontalIcon />,
+      title: "Exam database with past exams",
+      desc: "Old exams should be more easily accessible. We want to create a database with past exams. This will help students to prepare for their exams and to get a better understanding of the exam format.",
+      icon: <CursorArrowRaysIcon />,
     },
     {
-      title: "Something more",
-      desc: "Lorem ipsum is a placeholder text commonly used in the design and publishing industries to demonstrate",
+      title: "Expanded Mensa capacity by allocating additional space",
+      desc: "The Mensa is often overcrowded. We want to expand the Mensa capacity by allocating additional space.",
       icon: <SunIcon />,
+    },
+    {
+      title: "Improvement of the Return of Grades System in cooperation with the University.",
+      desc: "The current system has some flaws. We want to improve the system in cooperation with the University. Making it possible for all students to recieve their grade at mitnight.",
+      icon: <AdjustmentsHorizontalIcon />, 
     },
   ],
 };
