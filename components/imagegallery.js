@@ -8,15 +8,15 @@ import heroImg3 from '../public/img/gallery/5.png';
 const ImageGallery = () => {
     return (
       <div className="text-center">
-        <div className="flex justify-center">
+        <div className="flex flex-wrap justify-center sm:flex-row">
           {/* Use the Image component for each image */}
-          <div className="mx-4">
+          <div className="mx-4 sm: mt-5">
             <Image src={heroImg1} width={350} height={350} alt="Image 1" className="object-cover rounded-md" />
           </div>
-          <div className="mx-4">
+          <div className="mx-4 sm: mt-5 ">
             <Image src={heroImg2} width={350} height={350} alt="Image 2" className="object-cover rounded-md" />
           </div>
-          <div className="mx-4">
+          <div className="mx-4 sm: mt-5">
             <Image src={heroImg3} width={350} height={350} alt="Image 3" className="object-cover rounded-md" />
           </div>
         </div>
