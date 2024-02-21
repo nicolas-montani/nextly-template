@@ -40,7 +40,7 @@ const benefitTwo = {
   bullets: [
     {
     title: "New co-working space on campus (in building 05)",
-      desc: "The SHSG is moving to building 05. And we want to make it more accesibly to students. This would be archived by creating a co-working space in the same building. Additonally there will be an Open-Door policy for the SHSG office so that every student can come and talk to us.",
+      desc: "The SHSG is moving to building 05 and we want to make it more accesibly to students. This would be archived by creating a co-working space in the same building. Additonally there will be an Open-Door policy for the SHSG office so that every student can come and talk to us.",
       icon: <FaceSmileIcon />,
     }, 
     {
