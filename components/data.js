@@ -40,17 +40,17 @@ const benefitTwo = {
   bullets: [
     {
     title: "New co-working space on campus (in building 05)",
-      desc: "Study spaces are limited. More even during Learnphase. To remedy this problem we want to create a new co-working space on campus. A space where students can grind together and exchange ideas.",
+      desc: "The SHSG is moving to building 05. And we want to make it more accesibly to students. This would be archived by creating a co-working space in the same building. Additonally there will be an Open-Door policy for the SHSG office so that every student can come and talk to us.",
       icon: <FaceSmileIcon />,
     }, 
     {
       title: "Increased GYM capacity with a new GYM in the city centre",
-      desc: "The current GYM is too small and the capacity is limited. We want to increase the capacity by building a new GYM in the city centre. This will also make it easier for students living in the city centre to access the GYM.",
+      desc: "For many years students have been trying to increase the gym capacity. There has been plans for a new gym in the city centre. We want to give this project the necessary attention to make it a reality.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
       title: "Exam database with past exams",
-      desc: "Old exams should be more easily accessible. We want to create a database with past exams. This will help students to prepare for their exams and to get a better understanding of the exam format.",
+      desc: "ETH has made Old exams accessible to their students. So why not us? We want to create a database with past exams that is accesible for every student.",
       icon: <CursorArrowRaysIcon />,
     },
     {
@@ -60,7 +60,7 @@ const benefitTwo = {
     },
     {
       title: "Improvement of the Return of Grades System in cooperation with the University.",
-      desc: "The current system has some flaws. We want to improve the system in cooperation with the University. Making it possible for all students to recieve their grade at mitnight.",
+      desc: "The current system has some flaws. We recive our grades very late compared to other University's and Compass often starts slowing down we we recive them. We want to improve the system in cooperation with the University. Making this process more timely and less painful for the students.",
       icon: <AdjustmentsHorizontalIcon />, 
     },
   ],

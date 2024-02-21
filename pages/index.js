@@ -27,13 +27,14 @@ const Home = () => {
       </Head>
       <Navbar /> 
       <Hero />
+      <MBenefits data={benefitTwo} />
       <SectionTitle title="WHAT WE STAND FOR" >
       </SectionTitle>
       <ImageGallery/>
       <SectionTitle>
       Together, these values form the foundation of our campaign, inspiring us to make a meaningful difference in the lives of HSG students.
       </SectionTitle>
-      <MBenefits data={benefitTwo} />
+      
       <Cta />
       <Footer />
     </>
