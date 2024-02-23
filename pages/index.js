@@ -18,10 +18,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Campaign Website</title>
+        <title>Vote for Lisa & Nicolas</title>
         <meta
           name="description"
-          content="simple landing page for the shsg campaign"
+          content="Let's make a difference together. Vote for Lisa & Nicolas for SHSG Presidency."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

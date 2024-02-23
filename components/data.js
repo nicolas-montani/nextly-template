@@ -35,34 +35,34 @@ const benefitOne = {
 
 const benefitTwo = {
   title: "WHAT WE WANT TO ACHIEVE",
-  desc: "Over the last year there has been a high demand for change and innovation. We have listened to your feedback and have come up with a list of benefits that we want to achieve.",
   image: benefitTwoImg,
   bullets: [
     {
-    title: "New co-working space on campus (in building 05)",
-      desc: "The SHSG is moving to building 05 and we want to make it more accesibly to students. This would be archived by creating a co-working space in the same building. Additonally there will be an Open-Door policy for the SHSG office so that every student can come and talk to us.",
-      icon: <FaceSmileIcon />,
-    }, 
-    {
-      title: "Increased GYM capacity with a new GYM in the city centre",
-      desc: "For many years students have been trying to increase the gym capacity. There has been plans for a new gym in the city centre. We want to give this project the necessary attention to make it a reality.",
-      icon: <DevicePhoneMobileIcon />,
+      title: "Improvement of the Return of Grades System in cooperation with the University.",
+      desc: "We recive our grades very late compared to other Universities and Compass often starts slowing down when we recive them. We want to improve this in cooperation with the University. Making this process more timely and more student friendly.",
+      icon: <AdjustmentsHorizontalIcon />, 
     },
     {
       title: "Exam database with past exams",
-      desc: "ETH has made Old exams accessible to their students. So why not us? We want to create a database with past exams that is accesible for every student.",
+      desc: "Other universities have made exams accessible to their students. So why not us? We want to create a database with old exams from students for students.",
       icon: <CursorArrowRaysIcon />,
     },
     {
+    title: "New co-working space on campus (in building 05)",
+      desc: "The SHSG is moving to building 05 and we want to have an accessible space for all students. This will be achieved by creating a co-working space in the same building. Additionally there will be an Open-Door policy for the SHSG office so that every student can come and talk to us.",
+      icon: <FaceSmileIcon />,
+    }, 
+    {
       title: "Expanded Mensa capacity by allocating additional space",
-      desc: "The Mensa is often overcrowded. We want to expand the Mensa capacity by allocating additional space.",
+      desc: "The Mensa is often overcrowded. We want to work with the university to expand the Mensa capacity by allocating additional space in building 07.",
       icon: <SunIcon />,
     },
     {
-      title: "Improvement of the Return of Grades System in cooperation with the University.",
-      desc: "The current system has some flaws. We recive our grades very late compared to other University's and Compass often starts slowing down we we recive them. We want to improve the system in cooperation with the University. Making this process more timely and less painful for the students.",
-      icon: <AdjustmentsHorizontalIcon />, 
+      title: "Increased GYM capacity with a new GYM in the city centre",
+      desc: "For many years students have been trying to increase the gym capacity. There have been plans for a new gym in the city centre. We want to give this project the necessary attention to make it a reality.",
+      icon: <DevicePhoneMobileIcon />,
     },
+    
   ],
 };
 

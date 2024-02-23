@@ -13,17 +13,18 @@ const Hero = () => {
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
             Hi there !
-            We hold certain values close to our hearts. They will guide our actions for the upcoming year. This Website serves as a Platform for us to share our values and to get your feedback during the campaign. We are looking forward to get to know all of you.
+            We have many ideas for cool projects for the upcoming year. This Website serves as a Platform for us to share our values and to get your feedback during the campaign. We look forward to get to know all of you.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
+                href="https://padlet.com/militilisa/lisa-nicolas-for-shsg-presidency-le2y01xtt1bfombw"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-green-900 rounded-md ">
-                Vote Now !
+                Give Feedback !
               </a>
+              {/* 
               <a
                 href="https://padlet.com/militilisa/lisa-nicolas-for-shsg-presidency-le2y01xtt1bfombw"
                 target="_blank"
@@ -31,6 +32,7 @@ const Hero = () => {
                 className="flex items-center space-x-2 text-gray-500 dark:text-gray-400">
                 <span> Give Feedback</span>
               </a>
+              */}
             </div>
           </div>
         </div>
