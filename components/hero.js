@@ -15,6 +15,9 @@ const Hero = () => {
             Hi there !
             We have many ideas for cool projects for the upcoming year. This Website serves as a Platform for us to share our values and to get your feedback during the campaign. We look forward to get to know all of you.
             </p>
+            <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
+            Voting will be available from 4th to 7th of March.
+            </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a

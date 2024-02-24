@@ -14,6 +14,14 @@ import PopupWidget from "../components/popupWidget";
 import MBenefits from "../components/benefits2";
 import ImageGallery from "../components/imagegallery";
 
+import TagManager from 'react-gtm-module'
+
+const tagManagerArgs = {
+  gtmId: 'G-QW373CQCVP'
+}
+
+TagManager.initialize(tagManagerArgs)
+
 const Home = () => {
   return (
     <>

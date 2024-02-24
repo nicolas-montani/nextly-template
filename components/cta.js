@@ -10,7 +10,7 @@ const Cta = () => {
             Ready to vote for Us?
           </h2>
           <p className="mt-2 font-medium text-white text-opacity-90 lg:text-xl">
-            Every single voice counts. Let's make a difference together.
+            Voting will be available from 4th to 7th of March.
           </p>
         </div>
         <div className="flex-shrink-0 w-full text-center lg:w-auto">
