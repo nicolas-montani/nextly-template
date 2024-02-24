@@ -20,8 +20,6 @@ const tagManagerArgs = {
   gtmId: 'G-QW373CQCVP'
 }
 
-TagManager.initialize(tagManagerArgs)
-
 const Home = () => {
   return (
     <>
