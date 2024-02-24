@@ -6,7 +6,7 @@ import { useEffect } from 'react'
 
 function MyApp({ Component, pageProps }) {
   useEffect(() => {
-    TagManager.initialize({ gtmId: 'GTM-5XZKZC7' })
+    TagManager.initialize({ gtmId: 'G-QW373CQCVP' })
   }, [])
   return (
     <ThemeProvider attribute="class">
