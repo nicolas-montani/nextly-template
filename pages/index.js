@@ -15,12 +15,14 @@ import MBenefits from "../components/benefits2";
 import ImageGallery from "../components/imagegallery";
 
 import TagManager from 'react-gtm-module'
+import { useEffect } from "react";
 
 const tagManagerArgs = {
   gtmId: 'G-QW373CQCVP'
 }
 
 const Home = () => {
+  useEffect (() => { TagManager.initialize(tagManagerArgs) }, [])
   return (
     <>
       <Head>
