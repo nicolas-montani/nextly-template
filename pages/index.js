@@ -24,6 +24,23 @@ const Home = () => {
           content="Let's make a difference together. Vote for Lisa & Nicolas for SHSG Presidency."
         />
         <link rel="icon" href="/favicon.ico" />
+        
+        {/* Global Site Tag (gtag.js) - Google Analytics */}
+        <script 
+          async 
+          src="https://www.googletagmanager.com/gtag/js?id=G-QW373CQCVP"
+        />
+
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments)}
+              gtag('js', new Date());
+              gtag('config', 'G-QW373CQCVP');
+            `
+          }}
+        />
       </Head>
       <Navbar /> 
       <Hero />
