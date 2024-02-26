@@ -50,6 +50,18 @@ const Hero = () => {
               loading="eager"
               placeholder="blur"
             />
+          <div className="flex items-center justify-center ">
+          <div className="w-1/2">
+            <p className="text-center text-gray-500 dark:text-gray-400">
+                   Nicolas Montani 
+            </p>
+          </div>
+          <div className="w-1/2">
+            <p className="text-center text-gray-500 dark:text-gray-400">
+                   Lisa Militi
+            </p>
+          </div>
+          </div>
           </div>
         </div>
       </Container>
