@@ -15,11 +15,11 @@ const Cta = () => {
         </div>
         <div className="flex-shrink-0 w-full text-center lg:w-auto">
           <a
-            href="https://padlet.com/militilisa/lisa-nicolas-for-shsg-presidency-le2y01xtt1bfombw"
+            href="https://shsg.ch/elections/741"
             target="_blank"
             rel="noopener"
             className="inline-block py-3 mx-auto text-lg font-medium text-center text-green-900 bg-white rounded-md px-7 lg:px-10 lg:py-5 ">
-            Give Feedback !
+            Vote Now !
           </a>
         </div>
       </div>

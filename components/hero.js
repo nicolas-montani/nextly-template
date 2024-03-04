@@ -21,11 +21,11 @@ const Hero = () => {
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://padlet.com/militilisa/lisa-nicolas-for-shsg-presidency-le2y01xtt1bfombw"
+                href="https://shsg.ch/elections/741"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-green-900 rounded-md ">
-                Give Feedback !
+                Vote Now !
               </a>
               {/* 
               <a
