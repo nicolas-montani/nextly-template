@@ -39,7 +39,7 @@ const benefitTwo = {
   bullets: [
     {
       title: "Improvement of the Return of Grades System in cooperation with the University.",
-      desc: "We recive our grades very late compared to other Universities and Compass often starts slowing down when we recive them. We want to improve this in cooperation with the University. Making this process more timely and more student friendly.",
+      desc: "We receive our grades very late compared to other Universities and Compass often starts slowing down when we receive them. We want to improve this in cooperation with the University. Making this process more timely and more student friendly.",
       icon: <AdjustmentsHorizontalIcon />, 
     },
     {
